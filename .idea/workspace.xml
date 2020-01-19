@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="612297dc-2423-4fc0-8b7d-eed4f9e73b7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JObjInspector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abojoe/inspector/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abojoe/inspector/Inspector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abojoe/inspector/ObjNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abojoe/inspector/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/col.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/SampleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/META-INF/JObjInspector.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/META-INF/maven/com.abojoe/JObjInspector/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/META-INF/maven/com.abojoe/JObjInspector/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/com/abojoe/inspector/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/com/abojoe/inspector/Inspector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/com/abojoe/inspector/NodeIconRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/com/abojoe/inspector/ObjNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/images/col.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/images/cus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JObjInspector-1.0/images/sim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/JObjInspector.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/abojoe/inspector/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/abojoe/inspector/Inspector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/abojoe/inspector/ObjNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/abojoe/inspector/View$NodeIconRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/abojoe/inspector/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/col.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/cus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/sim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/SampleObject.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WUPrv0pQn9FViCHXXkhoUZZhME" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PLD-Labs/PLD-Labs/Lab12" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mohamed\Documents\GitHub\JObjInspector\src\main\resources\fxml" />
+      <recent name="C:\Users\Mohamed\Documents\GitHub\JObjInspector\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="InspectorSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="joinspector.InspectorSwing" />
+      <module name="JObjInspector" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abojoe.inspector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="joinspector.JavaFxApp" />
+      <module name="JObjInspector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abojoe.inspector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="JObjInspector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InspectorSwing" />
+        <item itemvalue="Application.JavaFxApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="612297dc-2423-4fc0-8b7d-eed4f9e73b7e" name="Default Changelist" comment="" />
+      <created>1579201401035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579201401035</updated>
+      <workItem from="1579201407949" duration="1248000" />
+      <workItem from="1579204919520" duration="153000" />
+      <workItem from="1579260739033" duration="20000" />
+      <workItem from="1579350110687" duration="2670000" />
+      <workItem from="1579353030574" duration="2478000" />
+      <workItem from="1579356882368" duration="180000" />
+      <workItem from="1579358787053" duration="16143000" />
+      <workItem from="1579392890637" duration="496000" />
+      <workItem from="1579434362677" duration="6628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1579450412809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579450412809" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1579434971170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579434971170" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579358856258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579358856258" />
+    <state x="360" y="6" key="CommitChangelistDialog2" timestamp="1579450890948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579450890948" />
+    <state width="437" height="466" key="DebuggerActiveHint" timestamp="1579363889673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="437" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1579363889673" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1579390272852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579390272852" />
+    <state x="603" y="328" width="354" height="168" key="Github.CreateGistDialog" timestamp="1579393070780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="603" y="328" width="354" height="168" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1579393070780" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1579450890962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579450890962" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1579450890962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579450890962" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1579450890962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579450890962" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1579450890962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579450890962" />
+    <state width="1493" height="273" key="GridCell.Tab.1.bottom" timestamp="1579449923728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579449923728" />
+    <state width="1493" height="273" key="GridCell.Tab.1.center" timestamp="1579449923728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579449923728" />
+    <state width="1493" height="273" key="GridCell.Tab.1.left" timestamp="1579449923728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579449923728" />
+    <state width="1493" height="273" key="GridCell.Tab.1.right" timestamp="1579449923728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579449923728" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1579450381891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579450381891" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1579450819871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579450819871" />
+    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1579201888127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1579201888127" />
+    <state x="399" y="114" width="738" height="596" key="find.popup" timestamp="1579359901553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="114" width="738" height="596" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1579359901553" />
+    <state x="209" y="65" key="new project wizard" timestamp="1579357055507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="65" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1579357055507" />
+  </component>
+</project>
